@@ -1,0 +1,72 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_transition"
+    >
+
+
+    <LinearLayout
+        android:id="@+id/control"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <EditText
+            android:layout_width="wrap_content"
+            android:background="@drawable/edittext"
+            android:layout_height="45dp"
+            android:inputType="textEmailAddress"
+            android:ems="13"
+            android:id="@+id/editText"
+            android:padding="10dp"
+            android:hint="Email"
+            android:gravity="center"
+            android:ellipsize="end"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:background="@drawable/edittext"
+            android:inputType="textPassword"
+            android:ems="13"
+            android:id="@+id/editText2"
+            android:layout_marginTop="25dp"
+            android:padding="10dp"
+            android:hint="Password"
+            android:gravity="center"
+            android:ellipsize="end"/>
+
+        <com.example.test.RippleView
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:padding="0dp"
+            android:layout_marginTop="25dp">
+            <Button
+                android:id="@+id/button"
+                android:background="@color/color2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="@android:color/white"
+                android:ems="13"
+                android:text="LOGIN"/>
+        </com.example.test.RippleView>
+
+            <com.google.android.gms.common.SignInButton
+                android:layout_marginTop="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:id="@+id/btn_sign_in"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"/>
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Focus/test/app/src/main/res/layout/signin.xml -->

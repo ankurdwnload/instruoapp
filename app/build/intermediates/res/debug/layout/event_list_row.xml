@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_marginBottom="10dp"/>
+
+
+    <android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:padding="0dp">
+
+<TextView
+    android:id="@+id/txtTitle_event"
+    android:textSize="22dp"
+    android:gravity="center"
+    android:layout_gravity="center_horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:drawablePadding="15dp"
+    android:paddingBottom="15dp"
+    tools:context=".MainActivity" />
+
+</android.support.v7.widget.CardView>
+</LinearLayout>
+    <!--style="@style/nowCardStyle"-->
+<!-- From: file:/C:/Users/Focus/test/app/src/main/res/layout/event_list_row.xml -->

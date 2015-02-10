@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/uproot"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/updated_soon"
+    android:background="@color/back"
+    android:textSize="22dp"
+    android:gravity="center_horizontal"
+    android:text="To Be Updated Soon..."
+    android:textStyle="italic"
+    android:layout_gravity="center_horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:drawablePadding="25dp"
+    android:paddingBottom="25dp"
+    tools:context=".MainActivity"
+    />
+
+    <ImageView
+        android:id="@+id/upimg"
+        android:background="@color/back"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout><!-- From: file:/C:/Users/Focus/test/app/src/main/res/layout/to_be_updated.xml -->

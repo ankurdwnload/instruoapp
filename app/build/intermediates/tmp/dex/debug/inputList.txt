@@ -1,0 +1,11 @@
+C:\Users\Focus\test\app\build\intermediates\classes\debug
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-979aaaa7c4a9f11506b97db97713ac12aa1595f8.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\classes-2567e7e222073375a1092ca78197ef560b2bcf2a.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\classes-b3f723c2b77fea607b289569119787eae057fb82.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\classes-573f304eb370ba0d5d81d2b85c123aec377986a8.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\classes-277e6c7262c805790b58a2158dc99f47db3c3aa9.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-bf213ba6ba1d95506bc8e719dab8b88bf561407a.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\classes-4e05be3251595a596614bcc9dddf82f551904948.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\classes-355e35c8b0cba9f2efd424b630dcea52086b7730.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\classes-35cb41e1505df9c462f94d97771de57f1654d27d.jar
+C:\Users\Focus\test\app\build\intermediates\pre-dexed\debug\classes-0cb6799e9f5bfdc6fef0d0545f2ff86707603a6a.jar

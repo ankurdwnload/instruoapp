@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="menu_list_array">
+    <item>Events</item>
+    <item>Workshops</item>
+    <item>Sponsors</item>
+    <item>Guests</item>
+    <item>Schedule</item>
+    <item>My Profile</item>
+    <item>Contacts</item>
+    <item>Settings</item>
+    </array>
+</resources>
